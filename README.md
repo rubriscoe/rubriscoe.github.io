@@ -32,7 +32,9 @@
         <h1>CS-499 Capstone Final Project</h1>
         <h2>Rulon Briscoe</h2>
         <h3>Code Review</h3>
-
+        <p>Code reviews are a critical part of software development that allows the developer to make sure they adhere to best practices. This is an opportunity to colaborate and share knowledge about the project making the code more maintainable. It also fosters better communication between team members.
+            
+        </p>
         
 
         <h3>Project 1: Software Engineering and Design</h3>
