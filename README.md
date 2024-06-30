@@ -110,8 +110,6 @@ public class Example {
 SELECT * FROM example_table;
         </code></pre>
 
-        <h3>Contact</h3>
-        <p>You can reach me at <a href="mailto:your-email@example.com">your-email@example.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
-    </div>
+       
 </body>
 </html>
