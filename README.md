@@ -59,21 +59,16 @@ def example_function():
         </code></pre>
 
         <h3>Project 2: Algorithms and Data Structures</h3>
-        <p>Description of Project 2. Highlight the key algorithms and data structures you implemented, along with any challenges you faced and how you overcame them.</p>
+        <p>For this app a added several tables using SQLite which is a quick and secure way to store and access data on a mobile app. SQLite is lightweight but powerful, making it the ideal software library for this project. </p>
 
-        <h4>Algorithms Implemented:</h4>
+        <h4>Key Features</h4>
         <ul>
-            <li>Algorithm 1</li>
-            <li>Algorithm 2</li>
-            <li>Algorithm 3</li>
+            <li>New SQLite table for a secure login</li>
+            <li>New SQLite table to store inventory items</li>
+            
         </ul>
 
-        <h4>Data Structures Used:</h4>
-        <ul>
-            <li>Data Structure 1</li>
-            <li>Data Structure 2</li>
-            <li>Data Structure 3</li>
-        </ul>
+        
 
         <h4>Code Snippet:</h4>
         <pre><code>
@@ -86,20 +81,15 @@ public class Example {
         </code></pre>
 
         <h3>Project 3: Databases</h3>
-        <p>Description of Project 3. Explain the database technologies you used, the schema design, and any optimizations you implemented.</p>
+        <p>For the database section of my project I was able to implement a fast, self-contained database using SQLite to provide secure logins and an easy to use inventory page to keep track of items in a warehouse</p>
 
-        <h4>Database Technologies:</h4>
-        <ul>
-            <li>Database 1</li>
-            <li>Database 2</li>
-            <li>Database 3</li>
-        </ul>
+        
 
         <h4>Key Features:</h4>
         <ul>
-            <li>Feature 1</li>
-            <li>Feature 2</li>
-            <li>Feature 3</li>
+            <li>New SQLite database that supports ACID transactions</li>
+            <li>lightweight and secure database features</li>
+            <li>Serverless operations </li>
         </ul>
 
         <h4>Code Snippet:</h4>
