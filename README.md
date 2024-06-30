@@ -32,26 +32,23 @@
         <h1>CS-499 Capstone Final Project</h1>
         <h2>Rulon Briscoe</h2>
         <h3>Code Review</h3>
-        <p>Code reviews are a critical part of software development that allows the developer to make sure they adhere to best practices. This is an opportunity to colaborate and share knowledge about the project making the code more maintainable. It also fosters better communication between team members.
+        <p>Code reviews are a critical part of software development that allows the developer to make sure they adhere to best practices. This is an opportunity to colaborate and share knowledge about the project making the code more maintainable. It also fosters better communication between team members. In this code review I went over the original project completed in a previous class to see which areas could be improved upon. This is a code review of a mobile app that I made to keep track of inventory in a warehouse.
             
         </p>
         
 
         <h3>Project 1: Software Engineering and Design</h3>
-        <p>Description of Project 1. Include details about the goals, technologies used, and the outcome of the project. You can also include a link to the project repository if available.</p>
+        <p>The artifact that I used for all three projects in this portfolio will display improvements in three different categories. Software engineering and design, algorithms and data structures, and databases. For the first project I was able to redesign the user interface and add more accessibility and navigational components for an overall better experience for the user. The pictures at the bottom will show that I added features to the secure login screen such as forgot username and password links and a create account button for first time users.</p>
 
-        <h4>Technologies Used:</h4>
-        <ul>
-            <li>Technology 1</li>
-            <li>Technology 2</li>
-            <li>Technology 3</li>
-        </ul>
+      
 
         <h4>Key Features:</h4>
         <ul>
-            <li>Feature 1</li>
-            <li>Feature 2</li>
-            <li>Feature 3</li>
+            <li>Secure login for previous users</li>
+            <li>Create account button for new users</li>
+            <li>New navigational features</li>
+            <li>New print button</li>
+            <li>New floating action point button to add inventory</li>
         </ul>
 
         <h4>Code Snippet:</h4>
