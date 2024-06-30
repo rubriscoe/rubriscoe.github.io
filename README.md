@@ -89,12 +89,15 @@ createAccountButton.setOnClickListener(new View.OnClickListener() {
         </ul>
 
         <h4>Code Snippet:</h4>
-        <pre><code>// Example code snippet
-public class Example {
-    public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        <pre><code>// code snippet
+ @Override
+    public void onCreate(SQLiteDatabase db) {
+        String CREATE_TABLE = "CREATE TABLE " + TABLE_NAME + "("
+                + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT,"
+                + COLUMN_USERNAME + " TEXT,"
+                + COLUMN_PASSWORD + " TEXT" + ")";
+        db.execSQL(CREATE_TABLE);
     }
-}
         </code></pre>
 
         <h3>Project 3: Databases</h3>
@@ -108,8 +111,15 @@ public class Example {
         </ul>
 
         <h4>Code Snippet:</h4>
-        <pre><code>-- Example code snippet
-SELECT * FROM example_table;
+        <pre><code>-- code snippet
+private void addItem(String itemName, int quantity, double price) {
+        Log.d(TAG, "addItem() called with: itemName = " + itemName + ", quantity = " + quantity + ", price = " + price);
+        SQLiteDatabase db = dbHelper.getWritableDatabase();
+        ContentValues values = new ContentValues();
+        values.put(InventoryDatabase.COLUMN_ITEM_NAME, itemName);
+        values.put(InventoryDatabase.COLUMN_QUANTITY, quantity);
+        values.put(InventoryDatabase.COLUMN_PRICE, price);
+        long newRowId = db.insert(InventoryDatabase.TABLE_NAME, null, values);
         </code></pre>
 
         <img src="https://github.com/rubriscoe/rubriscoe.github.io/assets/131625839/76f5be0c-8f5e-4da1-9a11-e2934fc9189b" alt="Code Review Image 1">
