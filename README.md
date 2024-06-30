@@ -33,8 +33,7 @@
         <h2>Rulon Briscoe</h2>
         <h3>Code Review</h3>
 
-        <img src="https://github.com/rubriscoe/rubriscoe.github.io/assets/131625839/76f5be0c-8f5e-4da1-9a11-e2934fc9189b" alt="Code Review Image 1">
-        <img src="https://github.com/rubriscoe/rubriscoe.github.io/assets/131625839/1eec076e-4255-4c7f-8ac0-bf2700ec208b" alt="Code Review Image 2">
+        
 
         <h3>Project 1: Software Engineering and Design</h3>
         <p>Description of Project 1. Include details about the goals, technologies used, and the outcome of the project. You can also include a link to the project repository if available.</p>
@@ -109,6 +108,9 @@ public class Example {
 -- Example code snippet
 SELECT * FROM example_table;
         </code></pre>
+
+        <img src="https://github.com/rubriscoe/rubriscoe.github.io/assets/131625839/76f5be0c-8f5e-4da1-9a11-e2934fc9189b" alt="Code Review Image 1">
+        <img src="https://github.com/rubriscoe/rubriscoe.github.io/assets/131625839/1eec076e-4255-4c7f-8ac0-bf2700ec208b" alt="Code Review Image 2">
 
        
 </body>
