@@ -6,7 +6,7 @@
     <title>CS-499 Capstone Final Project</title>
     <style>
         body {
-            background-color: #f0f0f0; /* Change this to your desired background color */
+            background-color: #ADD8E6; /* Change this to your desired background color */
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
