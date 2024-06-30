@@ -58,9 +58,25 @@
         </ul>
 
         <h4>Code Snippet:</h4>
-        <pre><code># Example code snippet
-def example_function():
-    print("Hello, world!")
+        <pre><code>#  code snippet
+createAccountButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String username = usernameEditText.getText().toString().trim();
+                String password = passwordEditText.getText().toString().trim();
+
+                if (username.isEmpty() || password.isEmpty()) {
+                    Toast.makeText(MainActivity.this, "Please enter all the fields", Toast.LENGTH_SHORT).show();
+                } else {
+                    boolean isInserted = db.registerUser(username, password);
+                    if (isInserted) {
+                        Toast.makeText(MainActivity.this, "Account Created", Toast.LENGTH_SHORT).show();
+                    } else {
+                        Toast.makeText(MainActivity.this, "Account Creation Failed", Toast.LENGTH_SHORT).show();
+                    }
+                }
+            }
+        });
         </code></pre>
 
         <h3>Project 2: Algorithms and Data Structures</h3>
