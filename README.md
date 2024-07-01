@@ -47,6 +47,9 @@
 
         <h3>Project 1: Software Engineering and Design</h3>
         <p>The artifact that I used for all three projects in this portfolio will display improvements in three different categories: Software engineering and design, algorithms and data structures, and databases. For the first project, I was able to redesign the user interface and add more accessibility and navigational components for an overall better experience for the user. The pictures at the bottom will show that I added features to the secure login screen such as forgot username and password links and a create account button for first-time users.</p>
+        <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
+        <p>If you want to see the full code for this project, click <a href="[URL](https://github.com/rubriscoe/rubriscoe.github.io/blob/main/inventory%20(4).zip)">here</a>.</p>
+
 
         <h4>Key Features:</h4>
         <ul>
@@ -81,6 +84,8 @@ createAccountButton.setOnClickListener(new View.OnClickListener() {
 
         <h3>Project 2: Algorithms and Data Structures</h3>
         <p>For this app, I added several tables using SQLite, which is a quick and secure way to store and access data on a mobile app. SQLite is lightweight but powerful, making it the ideal software library for this project.</p>
+        <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
+        <p>If you want to see the full code for this project, click <a href="URL">here</a>.</p>
 
         <h4>Key Features:</h4>
         <ul>
@@ -102,6 +107,8 @@ createAccountButton.setOnClickListener(new View.OnClickListener() {
 
         <h3>Project 3: Databases</h3>
         <p>For the database section of my project, I was able to implement a fast, self-contained database using SQLite to provide secure logins and an easy-to-use inventory page to keep track of items in a warehouse.</p>
+        <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
+        <p>If you want to see the full code for this project, click <a href="URL">here</a>.</p>
 
         <h4>Key Features:</h4>
         <ul>
@@ -124,6 +131,8 @@ private void addItem(String itemName, int quantity, double price) {
 
         <img src="https://github.com/rubriscoe/rubriscoe.github.io/assets/131625839/76f5be0c-8f5e-4da1-9a11-e2934fc9189b" alt="Code Review Image 1">
         <img src="https://github.com/rubriscoe/rubriscoe.github.io/assets/131625839/1eec076e-4255-4c7f-8ac0-bf2700ec208b" alt="Code Review Image 2">
+
+        <h3>Professional Self-Assessment</h3>
     </div>
 </body>
 </html>
