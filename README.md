@@ -85,7 +85,7 @@ createAccountButton.setOnClickListener(new View.OnClickListener() {
         <h3>Project 2: Algorithms and Data Structures</h3>
         <p>For this app, I added several tables using SQLite, which is a quick and secure way to store and access data on a mobile app. SQLite is lightweight but powerful, making it the ideal software library for this project.</p>
         <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
-        <p>If you want to see the full code for this project, click <a href="URL">here</a>.</p>
+        
 
         <h4>Key Features:</h4>
         <ul>
@@ -108,7 +108,7 @@ createAccountButton.setOnClickListener(new View.OnClickListener() {
         <h3>Project 3: Databases</h3>
         <p>For the database section of my project, I was able to implement a fast, self-contained database using SQLite to provide secure logins and an easy-to-use inventory page to keep track of items in a warehouse.</p>
         <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
-        <p>If you want to see the full code for this project, click <a href="URL">here</a>.</p>
+        
 
         <h4>Key Features:</h4>
         <ul>
