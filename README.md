@@ -49,6 +49,7 @@
         <h3>Project 1: Software Engineering and Design</h3>
         <p>The artifact that I used for all three projects in this portfolio will display improvements in three different categories: Software engineering and design, algorithms and data structures, and databases. For the first project, I was able to redesign the user interface and add more accessibility and navigational components for an overall better experience for the user. The pictures at the bottom will show that I added features to the secure login screen such as forgot username and password links and a create account button for first-time users.</p>
         <p>If you want to read the narrative for this project, click <a href="https://github.com/rubriscoe/rubriscoe.github.io/blob/main/module%203%20narrative%20(1).docx">here</a>.</p>
+        <p>If you want to the full code for the original project before any improvements, click <a href="https://github.com/rubriscoe/rubriscoe.github.io/blob/main/Projectthree_Rulon_Briscoe%20(1).zip">here</a>. You can open the file using Android Studio with a pixel 5 API34 emulator</p>
         <p>If you want to see the full code for this project, click <a href="https://github.com/rubriscoe/rubriscoe.github.io/blob/main/inventory%20(4).zip">here</a>. You can download the zip file and open it using Android Studio. To test this code i used an emulator on a pixel 5 API34 on Android Studio</p>
 
 
