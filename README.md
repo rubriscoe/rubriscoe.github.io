@@ -47,7 +47,7 @@
 
         <h3>Project 1: Software Engineering and Design</h3>
         <p>The artifact that I used for all three projects in this portfolio will display improvements in three different categories: Software engineering and design, algorithms and data structures, and databases. For the first project, I was able to redesign the user interface and add more accessibility and navigational components for an overall better experience for the user. The pictures at the bottom will show that I added features to the secure login screen such as forgot username and password links and a create account button for first-time users.</p>
-        <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
+        <p>If you want to read the narrative for this project, click <a href="https://github.com/rubriscoe/rubriscoe.github.io/blob/main/module%203%20narrative%20(1).docx">here</a>.</p>
         <p>If you want to see the full code for this project, click <a href="https://github.com/rubriscoe/rubriscoe.github.io/blob/main/inventory%20(4).zip">here</a>.</p>
 
 
@@ -84,7 +84,7 @@ createAccountButton.setOnClickListener(new View.OnClickListener() {
 
         <h3>Project 2: Algorithms and Data Structures</h3>
         <p>For this app, I added several tables using SQLite, which is a quick and secure way to store and access data on a mobile app. SQLite is lightweight but powerful, making it the ideal software library for this project.</p>
-        <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
+        <p>If you want to read the narrative for this project, click <a href="https://github.com/rubriscoe/rubriscoe.github.io/blob/main/Module%204%20narrative.docx">here</a>.</p>
         
 
         <h4>Key Features:</h4>
@@ -107,7 +107,7 @@ createAccountButton.setOnClickListener(new View.OnClickListener() {
 
         <h3>Project 3: Databases</h3>
         <p>For the database section of my project, I was able to implement a fast, self-contained database using SQLite to provide secure logins and an easy-to-use inventory page to keep track of items in a warehouse.</p>
-        <p>If you want to read the narrative for this project, click <a href="URL">here</a>.</p>
+        <p>If you want to read the narrative for this project, click <a href="https://github.com/rubriscoe/rubriscoe.github.io/blob/main/mod%205%20narrative%20(1).docx">here</a>.</p>
         
 
         <h4>Key Features:</h4>
