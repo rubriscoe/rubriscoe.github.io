@@ -143,7 +143,7 @@ private void addItem(String itemName, int quantity, double price) {
         <p>I was able to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices with the second section project of this course, Algorithms and Data structures. I was able to make enhancements to the artifact by adding tables for secure login and create ACID transactions for a table of inventory items. These SQLite tables are a quick, efficient way to organize and perform tasks with the given data.</p>
         <p>I was able to demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals with the software engineering and design portion of this project. I was able to create a user interface using XML to provide simple buttons, search bar, and floating action point buttons. I also created the backend database and tables with SQLite for a self-contained database.</p>
         <p>I was able to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources with the database section of this project. The data needed to be secure, especially for the login page. The SQLite database created a secure place to store inventory data stored on a plain file. </p>
-        </p>
+        
     </div>
 </body>
 </html>
