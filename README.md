@@ -44,6 +44,7 @@
         <h2>Rulon Briscoe</h2>
         <h3>Code Review</h3>
         <p>Code reviews are a critical part of software development that allows the developer to make sure they adhere to best practices. This is an opportunity to collaborate and share knowledge about the project making the code more maintainable. It also fosters better communication between team members. In this code review, I went over the original project completed in a previous class to see which areas could be improved upon. This is a code review of a mobile app that I made to keep track of inventory in a warehouse.</p>
+        <p>If you want to see the code review click <a href="https://youtu.be/jfhXHynaGDw">here</a>.</p>
 
         <h3>Project 1: Software Engineering and Design</h3>
         <p>The artifact that I used for all three projects in this portfolio will display improvements in three different categories: Software engineering and design, algorithms and data structures, and databases. For the first project, I was able to redesign the user interface and add more accessibility and navigational components for an overall better experience for the user. The pictures at the bottom will show that I added features to the secure login screen such as forgot username and password links and a create account button for first-time users.</p>
